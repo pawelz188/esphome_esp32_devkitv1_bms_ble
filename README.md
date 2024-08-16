@@ -6,3 +6,11 @@ https://github.com/syssi/esphome-jk-bms/tree/main
 
 Why reason: Batmon don't properly works with JKBMS.
 
+Create a file /homeassistant/esphome/secrets.yaml with content:
+# Your Wi-Fi SSID and password
+wifi_ssid: "yours wifi name"
+wifi_password: "yours wifi passwd"
+
+
+
+
